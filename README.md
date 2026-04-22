@@ -1,4 +1,4 @@
-# Discord Odysseia-Count Bot
+# Discord Odysseia-Court Bot
 
 在 Discord 服务器内提供一套结构化的“投诉 → 管理审核 → 开庭 → 回合制辩诉（自主发言）→ 管理裁决 → 一键归档并删除”流程，减少争吵与信息散落，并保留可追溯的案件记录。
 
