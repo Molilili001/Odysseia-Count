@@ -8,5 +8,9 @@ data/*.sqlite
 data/*.sqlite-journal
 data/*.sqlite-wal
 data/*.sqlite-shm
+deploy/
+bot_visible_texts.txt
+公示统一募选Cog项目计划.txt
+监察组功能迁移说明_PythonBot.txt
 .vscode/
 .idea/
